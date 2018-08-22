@@ -1,0 +1,5 @@
+C:\Projects\poolingAPI\UserPoolingApi
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=UserPoolingApi
+--content-root=C:\Projects\poolingAPI\UserPoolingApi
+--file=
